@@ -8,7 +8,6 @@ use Illuminate\Http\Request;
 
 use App\routes\web;
 
-
 class estudianteControlador extends Controller
 {
     public function vista(){
